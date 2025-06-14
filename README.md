@@ -6,7 +6,7 @@
 ---
 
 ## 📲 Demo Preview
-> *(Add your screenshots or screen recordings here for better appeal)*  
+>  
 > `0️⃣ 1️⃣ 2️⃣ 3️⃣ ... =  🔥`
 
 ---
